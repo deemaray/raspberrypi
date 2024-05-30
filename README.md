@@ -1,6 +1,8 @@
 Raspberry Pi project
 Automating Event Reminders on Raspberry Pi Using Khal 
 Student number: 2846890
+
+
 Introduction
 In today's fast-paced world, keeping track of important events and deadlines is crucial for personal and professional productivity. This project aims to address this need by automating event reminders on a Raspberry Pi, a versatile and affordable computing platform. The goal was to ensure timely alerts for scheduled events, leveraging a simple, reliable, and local calendar system. Initially, the project explored integrating popular cloud-based calendar services such as Google Calendar and Outlook Calendar. However, these attempts faced several challenges, particularly with authentication and access permissions. This led to the decision to utilize khal, a terminal-based calendar program, which offered a straightforward and efficient solution for managing local calendar events. By automating reminders through this setup, the project demonstrates an effective way to enhance productivity without relying on complex or third-party cloud services. 
 
@@ -44,11 +46,14 @@ The journey to automate event reminders on the Raspberry Pi encountered several 
      The Python script was developed with detailed error handling and debugging statements to ensure it correctly parsed event dates and times. The script was refined iteratively, fixing issues like incorrect date parsing and handling edge cases
 Through these steps, each challenge was systematically addressed, leading to a reliable and efficient automated event reminder system using khal on the Raspberry Pi.
 
+
 Future Improvements
 To enhance the functionality and user experience of the alarm system, several future improvements can be considered. First, integrating the alarm system with various calendar applications, such as Google Calendar or Microsoft Outlook, would allow for broader usability and convenience. Implementing a more sophisticated alert mechanism, including customizable sound notifications and visual pop-ups, could provide more effective alerts. Additionally, adding a user-friendly interface with options to set custom alert times, repeat notifications, and snooze functionality would make the system more versatile. Another potential improvement is incorporating machine learning algorithms to predict and prioritize important events based on user behavior and preferences. Finally, ensuring the system is compatible with multiple operating systems and devices, such as smartphones and smart home devices, would increase its accessibility and usefulness.
 
 Video
-This is a video about the Raspberry Pi Project. I introduced more details and the process of this project including the construction and the code. Here is the video link:____
+This is a video about the Raspberry Pi Project. I introduced more details and the process of this project including the construction and the code. Here is the video link: https://www.youtube.com/watch?v=gKxbZNyCSgU
+
+
 Conclusions
 Despite initial setbacks with cloud-based calendar services, the project successfully implemented a reliable and straightforward local calendar solution using khal. This approach eliminated dependency on external services, ensuring consistent and timely event reminders. The final solution is a testament to the effectiveness of leveraging local tools and scripting for automation tasks on the Raspberry Pi. Initially, the system was designed to alert users through a simple audio alarm. However, to enhance functionality and user experience, the final implementation uses a text-to-speech feature to announce the event details.. The final implementation goes beyond a basic audio alarm by incorporating text-to-speech technology, which announces event details to users. This enhancement provides a clearer, more detailed, and user-friendly alert system. 
 
