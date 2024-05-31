@@ -51,7 +51,8 @@ Future Improvements
 To enhance the functionality and user experience of the alarm system, several future improvements can be considered. First, integrating the alarm system with various calendar applications, such as Google Calendar or Microsoft Outlook, would allow for broader usability and convenience. Implementing a more sophisticated alert mechanism, including customizable sound notifications and visual pop-ups, could provide more effective alerts. Additionally, adding a user-friendly interface with options to set custom alert times, repeat notifications, and snooze functionality would make the system more versatile. Another potential improvement is incorporating machine learning algorithms to predict and prioritize important events based on user behavior and preferences. Finally, ensuring the system is compatible with multiple operating systems and devices, such as smartphones and smart home devices, would increase its accessibility and usefulness.
 
 Video
-This is a video about the Raspberry Pi Project. I introduced more details and the process of this project including the construction and the code. Here is the video link: https://www.youtube.com/watch?v=gKxbZNyCSgU
+This is a video about the Raspberry Pi Project. I introduced more details and the process of this project including the construction and the code. Here is the video link: https://www.youtube.com/watch?v=P1IOaNYnYxY
+
 
 
 Conclusions
